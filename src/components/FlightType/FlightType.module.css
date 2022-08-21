@@ -1,0 +1,41 @@
+.flightType {
+  width: 50%;
+  display: flex;
+  height: 20%;
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-around;
+  margin-left: 3rem;
+}
+
+.tripType,
+.flightClass,
+.flightPassengers {
+  width: 30%;
+  display: flex;
+  align-items: center;
+  align-content: center;
+  flex-direction: row;
+  flex-wrap: wrap;
+  cursor: pointer;
+  justify-content: space-evenly;
+}
+.tripType:hover,
+.flightClass:hover,
+.flightPassengers:hover {
+  background-color: rgb(224 250 255);
+}
+
+.tripType select,
+.flightClass select,
+.flightPassengersInput {
+  width: 80%;
+  border: none;
+  cursor: pointer;
+  height: 30px;
+  background-color: #dfeefb00;
+}
+.tripType select option,
+.flightClass select option {
+  border: none;
+}

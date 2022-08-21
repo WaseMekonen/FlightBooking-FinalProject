@@ -1,0 +1,422 @@
+[
+  {
+    "name": "Pudong",
+    "city": "Shanghai",
+    "country": "China",
+    "iata_code": "PVG",
+    "_geoloc": {
+      "lat": 31.143378,
+      "lng": 121.805214
+    },
+    "links_count": 825,
+    "objectID": "3406"
+  },
+  {
+    "name": "Lisboa",
+    "city": "Lisbon",
+    "country": "Portugal",
+    "iata_code": "LIS",
+    "_geoloc": {
+      "lat": 38.781311,
+      "lng": -9.135919
+    },
+    "links_count": 435,
+    "objectID": "1638"
+  },
+  {
+    "name": "Hong Kong Intl",
+    "city": "Hong Kong",
+    "country": "Hong Kong",
+    "iata_code": "HKG",
+    "_geoloc": {
+      "lat": 22.308919,
+      "lng": 113.914603
+    },
+    "links_count": 710,
+    "objectID": "3077"
+  },
+  {
+    "name": "Suvarnabhumi Intl",
+    "city": "Bangkok",
+    "country": "Thailand",
+    "iata_code": "BKK",
+    "_geoloc": {
+      "lat": 13.681108,
+      "lng": 100.747283
+    },
+    "links_count": 656,
+    "objectID": "3885"
+  },
+  {
+    "name": "Phuket Intl",
+    "city": "Phuket",
+    "country": "Thailand",
+    "iata_code": "HKT",
+    "_geoloc": {
+      "lat": 8.1132,
+      "lng": 98.316872
+    },
+    "links_count": 138,
+    "objectID": "3179"
+  },
+  {
+    "name": "Dubai Intl",
+    "city": "Dubai",
+    "country": "United Arab Emirates",
+    "iata_code": "DXB",
+    "_geoloc": {
+      "lat": 25.252778,
+      "lng": 55.364444
+    },
+    "links_count": 710,
+    "objectID": "2188"
+  },
+  {
+    "name": "Tbilisi",
+    "city": "Tbilisi",
+    "country": "Georgia",
+    "iata_code": "TBS",
+    "_geoloc": {
+      "lat": 41.669167,
+      "lng": 44.954722
+    },
+    "links_count": 69,
+    "objectID": "3973"
+  },
+  {
+    "name": "Johannesburg Intl",
+    "city": "Johannesburg",
+    "country": "South Africa",
+    "iata_code": "JNB",
+    "_geoloc": {
+      "lat": -26.139166,
+      "lng": 28.246
+    },
+    "links_count": 321,
+    "objectID": "813"
+  },
+  {
+    "name": "Larnaca",
+    "city": "Larnaca",
+    "country": "Cyprus",
+    "iata_code": "LCA",
+    "_geoloc": {
+      "lat": 34.875117,
+      "lng": 33.62485
+    },
+    "links_count": 190,
+    "objectID": "1197"
+  },
+  {
+    "name": "Eleftherios Venizelos Intl",
+    "city": "Athens",
+    "country": "Greece",
+    "iata_code": "ATH",
+    "_geoloc": {
+      "lat": 37.936358,
+      "lng": 23.944467
+    },
+    "links_count": 403,
+    "objectID": "3941"
+  },
+  {
+    "name": "Sofia",
+    "city": "Sofia",
+    "country": "Bulgaria",
+    "iata_code": "SOF",
+    "_geoloc": {
+      "lat": 42.695194,
+      "lng": 23.406167
+    },
+    "links_count": 132,
+    "objectID": "1194"
+  },
+  {
+    "name": "Henri Coanda",
+    "city": "Bucharest",
+    "country": "Romania",
+    "iata_code": "OTP",
+    "_geoloc": {
+      "lat": 44.572161,
+      "lng": 26.102178
+    },
+    "links_count": 227,
+    "objectID": "1657"
+  },
+  {
+    "name": "Boryspil Intl",
+    "city": "Kiev",
+    "country": "Ukraine",
+    "iata_code": "KBP",
+    "_geoloc": {
+      "lat": 50.345,
+      "lng": 30.894722
+    },
+    "links_count": 202,
+    "objectID": "2939"
+  },
+  {
+    "name": "Ferihegy",
+    "city": "Budapest",
+    "country": "Hungary",
+    "iata_code": "BUD",
+    "_geoloc": {
+      "lat": 47.436933,
+      "lng": 19.255592
+    },
+    "links_count": 195,
+    "objectID": "1489"
+  },
+  {
+    "name": "Schwechat",
+    "city": "Vienna",
+    "country": "Austria",
+    "iata_code": "VIE",
+    "_geoloc": {
+      "lat": 48.110278,
+      "lng": 16.569722
+    },
+    "links_count": 616,
+    "objectID": "1613"
+  },
+  {
+    "name": "Ruzyne",
+    "city": "Prague",
+    "country": "Czech Republic",
+    "iata_code": "PRG",
+    "_geoloc": {
+      "lat": 50.100833,
+      "lng": 14.26
+    },
+    "links_count": 361,
+    "objectID": "1587"
+  },
+  {
+    "name": "Fiumicino",
+    "city": "Rome",
+    "country": "Italy",
+    "iata_code": "FCO",
+    "_geoloc": {
+      "lat": 41.804475,
+      "lng": 12.250797
+    },
+    "links_count": 662,
+    "objectID": "1555"
+  },
+  {
+    "name": "Zurich",
+    "city": "Zurich",
+    "country": "Switzerland",
+    "iata_code": "ZRH",
+    "_geoloc": {
+      "lat": 47.464722,
+      "lng": 8.549167
+    },
+    "links_count": 494,
+    "objectID": "1678"
+  },
+  {
+    "name": "Geneve Cointrin",
+    "city": "Geneva",
+    "country": "Switzerland",
+    "iata_code": "GVA",
+    "_geoloc": {
+      "lat": 46.238064,
+      "lng": 6.10895
+    },
+    "links_count": 329,
+    "objectID": "1665"
+  },
+  {
+    "name": "Malpensa",
+    "city": "Milano",
+    "country": "Italy",
+    "iata_code": "MXP",
+    "_geoloc": {
+      "lat": 45.630606,
+      "lng": 8.728111
+    },
+    "links_count": 386,
+    "objectID": "1524"
+  },
+  {
+    "name": "Charles De Gaulle",
+    "city": "Paris",
+    "country": "France",
+    "iata_code": "CDG",
+    "_geoloc": {
+      "lat": 49.012779,
+      "lng": 2.55
+    },
+    "links_count": 1041,
+    "objectID": "1382"
+  },
+  {
+    "name": "Barcelona",
+    "city": "Barcelona",
+    "country": "Spain",
+    "iata_code": "BCN",
+    "_geoloc": {
+      "lat": 41.297078,
+      "lng": 2.078464
+    },
+    "links_count": 783,
+    "objectID": "1218"
+  },
+  {
+    "name": "Barajas",
+    "city": "Madrid",
+    "country": "Spain",
+    "iata_code": "MAD",
+    "_geoloc": {
+      "lat": 40.493556,
+      "lng": -3.566764
+    },
+    "links_count": 661,
+    "objectID": "1229"
+  },
+  {
+    "name": "Brussels Natl",
+    "city": "Brussels",
+    "country": "Belgium",
+    "iata_code": "BRU",
+    "_geoloc": {
+      "lat": 50.901389,
+      "lng": 4.484444
+    },
+    "links_count": 631,
+    "objectID": "302"
+  },
+  {
+    "name": "Domododevo",
+    "city": "Moscow",
+    "country": "Russia",
+    "iata_code": "DME",
+    "_geoloc": {
+      "lat": 55.408611,
+      "lng": 37.906111
+    },
+    "links_count": 649,
+    "objectID": "4029"
+  },
+  {
+    "name": "Liege",
+    "city": "Liege",
+    "country": "Belgium",
+    "iata_code": "LGG",
+    "_geoloc": {
+      "lat": 50.637417,
+      "lng": 5.443222
+    },
+    "links_count": 17,
+    "objectID": "309"
+  },
+  {
+    "name": "Heathrow",
+    "city": "London",
+    "country": "United Kingdom",
+    "iata_code": "LHR",
+    "_geoloc": {
+      "lat": 51.4775,
+      "lng": -0.461389
+    },
+    "links_count": 1051,
+    "objectID": "507"
+  },
+  {
+    "name": "Menara",
+    "city": "Marrakech",
+    "country": "Morocco",
+    "iata_code": "RAK",
+    "_geoloc": {
+      "lat": 31.606886,
+      "lng": -8.0363
+    },
+    "links_count": 145,
+    "objectID": "1075"
+  },
+  {
+    "name": "John F Kennedy Intl",
+    "city": "New York",
+    "country": "United States",
+    "iata_code": "JFK",
+    "_geoloc": {
+      "lat": 40.639751,
+      "lng": -73.778925
+    },
+    "links_count": 911,
+    "objectID": "3797"
+  },
+  {
+    "name": "Miami Intl",
+    "city": "Miami",
+    "country": "United States",
+    "iata_code": "MIA",
+    "_geoloc": {
+      "lat": 25.79325,
+      "lng": -80.290556
+    },
+    "links_count": 734,
+    "objectID": "3576"
+  },
+  {
+    "name": "Lester B Pearson Intl",
+    "city": "Toronto",
+    "country": "Canada",
+    "iata_code": "YYZ",
+    "_geoloc": {
+      "lat": 43.677223,
+      "lng": -79.630556
+    },
+    "links_count": 636,
+    "objectID": "193"
+  },
+  {
+    "name": "Los Angeles Intl",
+    "city": "Los Angeles",
+    "country": "United States",
+    "iata_code": "LAX",
+    "_geoloc": {
+      "lat": 33.942536,
+      "lng": -118.408075
+    },
+    "links_count": 990,
+    "objectID": "3484"
+  },
+  {
+    "name": "Ben Gurion",
+    "city": "Tel Aviv",
+    "country": "Israel",
+    "iata_code": "TLV",
+    "_geoloc": {
+      "lat": 32.011389,
+      "lng": 34.886667
+    },
+    "links_count": 271,
+    "objectID": "1590"
+  },
+  {
+    "name": "Schiphol",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "iata_code": "AMS",
+    "_geoloc": {
+      "lat": 52.308613,
+      "lng": 4.763889
+    },
+    "links_count": 903,
+    "objectID": "580"
+  },
+  {
+    "name": "Brandenburg",
+    "city": "Berlin",
+    "country": "Germany",
+    "iata_code": "BER",
+    "_geoloc": {
+      "lat": 52.308613,
+      "lng": 4.763889
+    },
+    "links_count": 903,
+    "objectID": "580"
+  }
+]

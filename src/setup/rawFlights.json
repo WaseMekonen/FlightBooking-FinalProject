@@ -1,0 +1,233 @@
+[
+  {
+    "flightNumber": "LY65",
+    "originCode": "TLV",
+    "destinationCode": "PVG",
+    "flightDuration": 36120000,
+    "flightsPer24h": 3
+  },
+  {
+    "flightNumber": "LY371",
+    "originCode": "TLV",
+    "destinationCode": "LIS",
+    "flightDuration": 20940000,
+    "flightsPer24h": 4
+  },
+  {
+    "flightNumber": "LY75",
+    "originCode": "TLV",
+    "destinationCode": "HKG",
+    "flightDuration": 35520000,
+    "flightsPer24h": 4
+  },
+  {
+    "flightNumber": "LY81",
+    "originCode": "TLV",
+    "destinationCode": "BKK",
+    "flightDuration": 37080000,
+    "flightsPer24h": 2
+  },
+  {
+    "flightNumber": "LY88",
+    "originCode": "TLV",
+    "destinationCode": "HKT",
+    "flightDuration": 31860000,
+    "flightsPer24h": 3
+  },
+  {
+    "flightNumber": "LY217",
+    "originCode": "TLV",
+    "destinationCode": "LHR",
+    "flightDuration": 18000000,
+    "flightsPer24h": 3
+  },
+  {
+    "flightNumber": "LY393",
+    "originCode": "TLV",
+    "destinationCode": "BCN",
+    "flightDuration": 16140000,
+    "flightsPer24h": 3
+  },
+  {
+    "flightNumber": "LY1",
+    "originCode": "TLV",
+    "destinationCode": "JFK",
+    "flightDuration": 40860000,
+    "flightsPer24h": 3
+  },
+  {
+    "flightNumber": "LY1744",
+    "originCode": "TLV",
+    "destinationCode": "FCO",
+    "flightDuration": 12300000,
+    "flightsPer24h": 3
+  },
+  {
+    "flightNumber": "LY575",
+    "originCode": "TLV",
+    "destinationCode": "OTP",
+    "flightDuration": 9600000,
+    "flightsPer24h": 3
+  },
+  {
+    "flightNumber": "LY543",
+    "originCode": "TLV",
+    "destinationCode": "ATH",
+    "flightDuration": 8460000,
+    "flightsPer24h": 3
+  },
+  {
+    "flightNumber": "LY339",
+    "originCode": "TLV",
+    "destinationCode": "AMS",
+    "flightDuration": 18240000,
+    "flightsPer24h": 4
+  },
+  {
+    "flightNumber": "LY325",
+    "originCode": "TLV",
+    "destinationCode": "CDG",
+    "flightDuration": 17280000,
+    "flightsPer24h": 4
+  },
+  {
+    "flightNumber": "LY3371",
+    "originCode": "TLV",
+    "destinationCode": "BER",
+    "flightDuration": 14880000,
+    "flightsPer24h": 3
+  },
+  {
+    "flightNumber": "LY5059",
+    "originCode": "TLV",
+    "destinationCode": "DXB",
+    "flightDuration": 10680000,
+    "flightsPer24h": 3
+  },
+  {
+    "flightNumber": "LY691",
+    "originCode": "TLV",
+    "destinationCode": "TBS",
+    "flightDuration": 9000000,
+    "flightsPer24h": 3
+  },
+  {
+    "flightNumber": "LY051",
+    "originCode": "TLV",
+    "destinationCode": "JNB",
+    "flightDuration": 31200000,
+    "flightsPer24h": 4
+  },
+  {
+    "flightNumber": "LY243",
+    "originCode": "TLV",
+    "destinationCode": "LCA",
+    "flightDuration": 4080000,
+    "flightsPer24h": 4
+  },
+  {
+    "flightNumber": "LY551",
+    "originCode": "TLV",
+    "destinationCode": "SOF",
+    "flightDuration": 9900000,
+    "flightsPer24h": 3
+  },
+  {
+    "flightNumber": "LY2651",
+    "originCode": "TLV",
+    "destinationCode": "KBP",
+    "flightDuration": 12300000,
+    "flightsPer24h": 3
+  },
+  {
+    "flightNumber": "LY2365",
+    "originCode": "TLV",
+    "destinationCode": "BUD",
+    "flightDuration": 12420000,
+    "flightsPer24h": 4
+  },
+  {
+    "flightNumber": "LY361",
+    "originCode": "TLV",
+    "destinationCode": "VIE",
+    "flightDuration": 13800000,
+    "flightsPer24h": 4
+  },
+  {
+    "flightNumber": "LY2521",
+    "originCode": "TLV",
+    "destinationCode": "PRG",
+    "flightDuration": 15420000,
+    "flightsPer24h": 3
+  },
+  {
+    "flightNumber": "LY8853",
+    "originCode": "TLV",
+    "destinationCode": "ZRH",
+    "flightDuration": 14940000,
+    "flightsPer24h": 3
+  },
+  {
+    "flightNumber": "LY345",
+    "originCode": "TLV",
+    "destinationCode": "GVA",
+    "flightDuration": 16800000,
+    "flightsPer24h": 3
+  },
+  {
+    "flightNumber": "LY381",
+    "originCode": "TLV",
+    "destinationCode": "MXP",
+    "flightDuration": 15300000,
+    "flightsPer24h": 4
+  },
+  {
+    "flightNumber": "LY8397",
+    "originCode": "TLV",
+    "destinationCode": "MAD",
+    "flightDuration": 19800000,
+    "flightsPer24h": 3
+  },
+  {
+    "flightNumber": "LY333",
+    "originCode": "TLV",
+    "destinationCode": "BRU",
+    "flightDuration": 15780000,
+    "flightsPer24h": 4
+  },
+  {
+    "flightNumber": "LY611",
+    "originCode": "TLV",
+    "destinationCode": "DME",
+    "flightDuration": 15300000,
+    "flightsPer24h": 3
+  },
+  {
+    "flightNumber": "LY871",
+    "originCode": "TLV",
+    "destinationCode": "LGG",
+    "flightDuration": 9000000,
+    "flightsPer24h": 4
+  },
+  {
+    "flightNumber": "LY553",
+    "originCode": "TLV",
+    "destinationCode": "RAK",
+    "flightDuration": 22800000,
+    "flightsPer24h": 4
+  },
+  {
+    "flightNumber": "LY17",
+    "originCode": "TLV",
+    "destinationCode": "MIA",
+    "flightDuration": 49800000,
+    "flightsPer24h": 4
+  },
+  {
+    "flightNumber": "LY31 ",
+    "originCode": "TLV",
+    "destinationCode": "YYZ",
+    "flightDuration": 47700000,
+    "flightsPer24h": 4
+  }
+]

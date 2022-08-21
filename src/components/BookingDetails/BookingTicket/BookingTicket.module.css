@@ -1,0 +1,125 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.currentFlight {
+  display: flex;
+  margin-left: 2rem;
+  height: 50%;
+  width: 90%;
+  flex-direction: column;
+  background-color: #f3f3f3;
+  border-radius: 9px;
+  align-items: center;
+  justify-content: space-between;
+  border: 1px solid darkgrey;
+  filter: drop-shadow(2px 2px 6px rgb(214, 214, 214));
+}
+
+.currentFlight:hover {
+  filter: drop-shadow(2px 2px 6px rgb(184, 184, 184));
+}
+
+.details {
+  /* background-color: rgb(255, 0, 0); */
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.firstFlight {
+  /* background-color: aqua; */
+  width: 100%;
+  height: 94%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.rowOne {
+  width: 96%;
+  height: 20%;
+  /* background-color: rgb(255, 255, 255); */
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.duration {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  flex-direction: row;
+}
+.duration h4 {
+  margin-left: 4px;
+}
+
+.rowTwo {
+  width: 100%;
+  height: 80%;
+  background-color: rgb(204, 204, 204);
+  display: inline;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.airlineDetails {
+  /* background-color: rgb(208, 255, 0); */
+  width: 22%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.logo {
+  display: flex;
+  /* background-color: aqua; */
+  height: 100%;
+  width: 45%;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.logo img {
+  width: 80%;
+  height: 19%;
+}
+.brand {
+  /* background-color: rgb(238, 255, 0); */
+  height: 100%;
+  width: 65%;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: center;
+  font-size: 97%;
+}
+
+.time {
+  /* background-color: rgb(0, 68, 255); */
+  width: 15%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.class {
+  width: 15%;
+}
+.class div {
+  background-color: #63d9b2;
+  display: flex;
+  justify-content: center;
+  height: 100%;
+  width: 100%;
+  border: 1px solid gray;
+  align-content: center;
+}
+
+.roundFlight {
+  /* background-color: aqua; */
+  width: 100%;
+  height: 48%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}

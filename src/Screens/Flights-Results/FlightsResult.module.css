@@ -1,0 +1,144 @@
+.member {
+  display: flex;
+  position: fixed;
+  background-color: #ededed;
+  border: 1px solid gray;
+  width: 62%;
+  height: 29%;
+  z-index: 1;
+  border-radius: 10px;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  padding: 9px;
+  top: 37%;
+}
+.member span {
+  display: flex;
+  width: 3%;
+  height: 12%;
+  background-color: #ffffff;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+.member span:hover {
+  background-color: #dadada;
+}
+
+.message {
+  font-size: xx-large;
+  color: #113f67;
+}
+
+.choose {
+  display: flex;
+  width: 42%;
+  height: 15%;
+  justify-content: space-around;
+}
+
+.login,
+.continue {
+  background-color: #0f579b;
+  border: 1px solid;
+  display: flex;
+  width: 33%;
+  color: aliceblue;
+  height: 100%;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+.continue {
+  background-color: #6d6d6d;
+}
+
+.continue:hover {
+  background-color: #559bd8;
+}
+.login:hover {
+  background-color: #559bd8;
+}
+
+.FlightsResultHeader {
+  position: relative;
+  display: flex;
+  height: 150px;
+  width: 100vw;
+}
+
+.flightResultSearchBar {
+  padding: 1rem;
+  display: flex;
+  background-color: #b1deff;
+  width: 100%;
+  flex-direction: column;
+  height: 100%;
+  justify-content: space-between;
+}
+
+.FlightDetailsComponent {
+  position: absolute;
+}
+.FlightsResultContainer {
+  display: flex;
+  height: 1200px;
+  width: 100vw;
+  background-color: #dadada;
+  justify-content: center;
+}
+
+.resultsForRoudTrip {
+  display: flex;
+  width: 62%;
+  height: 1152px;
+  flex-direction: column;
+  margin-top: 3rem;
+}
+
+.roudTripticket {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  height: 20%;
+  width: 98%;
+  padding: 1%;
+  background-color: #ffffff;
+  margin-top: 1%;
+  border-radius: 2px;
+}
+
+.destination {
+  margin-bottom: 5rem;
+  height: 15%;
+  width: 100%;
+  background-position: 40% 38%;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.destinationImage {
+  width: 100%;
+  height: 100%;
+}
+.destination h4 {
+  font-size: xx-large;
+  color: aliceblue;
+  filter: drop-shadow(2px 4px 6px black);
+}
+.results {
+  display: flex;
+  overflow-y: scroll;
+  height: 70%;
+  flex-direction: column;
+  align-items: center;
+}
+
+.footer {
+  height: 380px;
+  width: 100vw;
+  background-color: rgb(11, 53, 82);
+}

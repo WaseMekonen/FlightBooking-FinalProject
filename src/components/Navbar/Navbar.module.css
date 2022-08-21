@@ -1,0 +1,54 @@
+.routing {
+  display: flex;
+  height: 50px;
+  background-color: rgb(255, 255, 255);
+  flex-direction: row;
+  align-content: center;
+  align-items: center;
+  justify-content: space-between;
+}
+.logo {
+  width: 30%;
+  height: 50%;
+}
+.logo img {
+  width: 37%;
+  margin-left: 2rem;
+}
+
+.links a {
+  color: #15233c;
+  margin-right: 24px;
+  font-size: 18px;
+  text-decoration: none;
+  cursor: pointer;
+}
+.userConected {
+  width: 39%;
+  height: 100%;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+.userConected a {
+  font-size: 17px;
+  display: flex;
+  cursor: pointer;
+  color: #15233c;
+  text-decoration: none;
+  text-align: center;
+  align-items: center;
+}
+.loginRegister {
+  border: 1px solid #8aafd9;
+}
+
+.userConected a:hover {
+  background-color: rgb(222 239 255);
+}
+.userLogin {
+  font-size: 23px;
+  display: flex;
+  justify-content: space-evenly;
+  width: 66%;
+}

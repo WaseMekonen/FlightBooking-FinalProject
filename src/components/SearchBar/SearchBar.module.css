@@ -1,0 +1,128 @@
+.flightForm {
+  display: flex;
+  position: relative;
+  width: 100%;
+  height: 20%;
+  flex-direction: row;
+  justify-content: space-evenly;
+  align-items: flex-start;
+}
+.inputs {
+  width: 55%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.returnInput {
+  width: 15%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.search {
+  width: 15%;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+.inputs .origin,
+.destination,
+.departure {
+  display: flex;
+  width: 31%;
+  align-items: center;
+  flex-direction: column;
+}
+
+.return {
+  display: flex;
+  width: 100%;
+  align-items: center;
+  flex-direction: column;
+}
+
+input {
+  width: 100%;
+  height: 30px;
+  font-size: medium;
+  color: #000000;
+  font-family: system-ui;
+}
+
+.changeDirection {
+  display: flex;
+  height: 30px;
+  width: 5%;
+  border: 1px solid #b4b4b4;
+  background-color: #ececec;
+  border-radius: 8%;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+.changeDirection:hover {
+  background-color: #838383;
+}
+
+.buttonActive {
+  display: flex;
+  text-decoration: none;
+  text-align: center;
+  width: 9rem;
+  cursor: pointer;
+  background-color: #0f579b;
+  height: 32px;
+  color: #ffffff;
+  border-radius: 9px;
+  border-color: #dee2e9 #f9eded;
+  font-size: 112%;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.buttonActive:hover {
+  background-color: #00c3ff;
+}
+
+.buttonDisable {
+  display: flex;
+  text-decoration: none;
+  text-align: center;
+  cursor: not-allowed;
+  pointer-events: none;
+  background-color: #6a6b6b;
+  height: 32px;
+  width: 9rem;
+  color: #464646;
+  border-radius: 9px;
+  border-color: #dee2e9 #f9eded;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.formContainer {
+  background-color: aliceblue;
+}
+.suggestionorigin,
+.suggestiondestination {
+  position: relative;
+  width: 100%;
+  cursor: pointer;
+  border-right: 1px solid black;
+  border-left: 1px solid black;
+  border-bottom: 1px solid black;
+  height: 37%;
+  min-height: 5rem;
+  overflow: auto;
+  border: antiquewhite;
+}
+
+.suggestionorigin,
+.suggestiondestination {
+  background-color: #ffffff;
+}
+
+.suggestionorigin option:hover,
+.suggestiondestination option:hover {
+  background-color: #c4c4c4;
+}

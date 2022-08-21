@@ -1,0 +1,78 @@
+.loginContainer {
+  filter: drop-shadow(2px 4px 6px gray);
+  display: flex;
+  width: 39rem;
+  height: 356px;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  margin-left: 16rem;
+  position: fixed;
+  z-index: 2;
+  top: 37%;
+}
+.left {
+  display: flex;
+  width: 70%;
+  height: 100%;
+  flex-direction: column;
+}
+
+.right {
+  background-image: url(https://img4.goodfon.com/wallpaper/nbig/a/8b/vector-blue-squares-abstract-background-geometric.jpg);
+  background-size: 100% 100%;
+  width: 40%;
+  height: 100%;
+}
+
+.login {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  background-color: #ffffff;
+  justify-content: space-evenly;
+}
+
+.headline {
+  display: flex;
+  justify-content: center;
+}
+
+.formInputs {
+  display: flex;
+  height: 74%;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.formInputsInput input {
+  display: flex;
+  margin: 7% 7% 6% 10%;
+  width: 80%;
+  height: 44px;
+}
+
+.loginBtnContainer {
+  display: flex;
+  justify-content: center;
+}
+
+.loginBtn {
+  display: flex;
+  justify-content: center;
+  font-size: 20px;
+  color: white;
+  width: 70%;
+  height: 44px;
+  border: none;
+  border-radius: 10px;
+  background-image: linear-gradient(338deg, #13a4bb 0%, #fffffd 100%);
+  cursor: pointer;
+  border-bottom: 2px solid #504f4f;
+}
+
+.haveAcount {
+  margin-top: 19px;
+  display: flex;
+  justify-content: center;
+}

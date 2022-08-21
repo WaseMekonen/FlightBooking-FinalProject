@@ -1,0 +1,20 @@
+[
+  {
+    "city": "Paris",
+    "airport": "TLV-CDG",
+    "image": "https://gohotelflights.com/wp-content/uploads/2020/08/france-paris-eiffel-tower.jpg",
+    "price": "$340"
+  },
+  {
+    "city": "Berlin",
+    "airport": "TLV-BER",
+    "image": "https://www.easyjet.com/ejcms/cache/medialibrary/Images/JSS/Destinations/Hero/Germany_Berlin_3840x2160.jpg?mw=1920&hash=9BC9EB1CC96CBEB8D3247A638FC65C79B12C1099",
+    "price": "$340"
+  },
+  {
+    "city": "Rome",
+    "airport": "TLV-FCO",
+    "image": "https://www.edreams.com/blog/wp-content/uploads/sites/3/2018/07/the-colosseum-in-rome-italy.jpg",
+    "price": "$340"
+  }
+]

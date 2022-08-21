@@ -1,0 +1,128 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.paymentPage {
+  display: flex;
+  margin-left: 2rem;
+  height: 50%;
+  width: 90%;
+  flex-direction: column;
+  border-radius: 9px;
+  align-items: center;
+  justify-content: space-around;
+}
+.payMentContainer {
+  display: flex;
+  width: 100%;
+  height: 80%;
+  flex-direction: row;
+  align-content: space-around;
+  justify-content: space-between;
+  filter: drop-shadow(2px 4px 6px darkgray);
+  color: #1e2e60;
+}
+.payMentDetails {
+  display: flex;
+  width: 70%;
+  height: 100%;
+  flex-direction: column;
+  background-color: #c3c3c3;
+  align-items: center;
+  justify-content: space-evenly;
+}
+.payMentDetailsCardNumber {
+  display: flex;
+  height: 25%;
+  width: 77%;
+  flex-direction: column;
+  justify-content: space-evenly;
+}
+.payMentDetailsCardNumber input {
+  height: 34%;
+  width: 68%;
+}
+.payMentDetailsCardExpiration {
+  display: flex;
+  height: 21%;
+  width: 77%;
+  flex-direction: column;
+  justify-content: space-evenly;
+}
+
+.ExpirationDate {
+  display: flex;
+  height: 35%;
+  width: 68%;
+  justify-content: space-between;
+}
+.ExpirationDate input {
+  width: 45%;
+}
+
+.payMentDetailsCardHolder {
+  display: flex;
+  height: 20%;
+  width: 77%;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+
+.payMentDetailsFirstName .payMentDetailsLastName input {
+  width: 92%;
+  height: 30px;
+  font-size: medium;
+  color: #000000;
+  font-family: system-ui;
+}
+
+.payMentDetailsBtn {
+  display: flex;
+  height: 11%;
+  width: 77%;
+  justify-content: center;
+  align-items: center;
+}
+
+.payMentDetailsBtn input {
+  height: 83%;
+  width: 48%;
+  border-radius: 12px;
+  color: white;
+  font-size: 22px;
+  background: #369dc0;
+  cursor: pointer;
+  border: 1px solid #35a1c5;
+}
+
+.payMentTotalImage {
+  background-image: url(https://media.istockphoto.com/vectors/paper-layer-blue-abstract-background-use-for-banner-cover-poster-vector-id1189542390?k=20&m=1189542390&s=612x612&w=0&h=BuiWGcAkZq0Jr85EbSwpVgT6oozLjhxP1uc5UDJGFOQ=);
+  background-size: 100% 100%;
+  filter: brightness(0.8);
+  width: 30%;
+  height: 100%;
+  background-color: rgb(51, 209, 156);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.price {
+  display: flex;
+  height: 64%;
+  width: 76%;
+  margin-bottom: 34%;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.price h5 {
+  color: white;
+}
+.price h1 {
+  color: white;
+  font-size: xxx-large;
+}
